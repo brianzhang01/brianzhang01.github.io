@@ -4,7 +4,8 @@
     <title>Tags on Brian C. Zhang</title>
     <link>https://www.brianczhang.com/tags/</link>
     <description>Recent content in Tags on Brian C. Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.brianczhang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.brianczhang.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
